@@ -1,0 +1,37 @@
+/**
+ * SERP Preview styles
+ */
+ 
+.serp-preview {
+	font-family: arial, sans-serif;
+	padding: 10px 8px;
+	cursor: pointer;
+	border-radius: 4px;
+	margin-top: 1em;
+	border: 1px solid #bbc3bb;
+	background: #f9f9f9;
+}
+
+.serp-preview-title {
+	color: #1a0dab;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.serp-preview-address {
+	color: #006621;
+	font-size: 14px;
+	line-height: 1.6;
+}
+
+.serp-preview-description {
+	width: 578px;
+	color: #505050;
+	line-height: 1.4;
+	word-wrap: break-word;
+	font-size: 13px;	
+}
+
+.serp-preview-info {
+	color: #777;
+}
